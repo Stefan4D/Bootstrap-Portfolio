@@ -1,3 +1,4 @@
+/* This class sets the background color and padding for the overlay text on the portfolio cards to make it more readable. */
 .card-text-overlay {
   background-color: rgba(0, 0, 0, 0.5);
   padding: 10px;

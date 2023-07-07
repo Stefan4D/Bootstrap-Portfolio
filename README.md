@@ -38,6 +38,7 @@ In completing this challenge exercise, I made use of the following resources:
 - [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - [Net Ninja: Bootstrap 5 Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
 - [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass)
+- [Huemint Bootstrap Theme Generator](https://huemint.com/bootstrap-plus/)
 
 ## Mark Scheme Compliance
 
