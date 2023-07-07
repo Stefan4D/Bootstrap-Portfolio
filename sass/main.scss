@@ -1,9 +1,19 @@
 // modify default bootstrap variables
-$primary: #34ac22;
-$secondary: #6c757d;
-$tertiary: #116fcd;
+$white: #ffffff;
 
-// add custom colour themes
+$theme-colors: (
+  "light": #c4e6fa,
+  "dark": #0054b3,
+  "primary": #3e4653,
+  "secondary": #466f98,
+  "info": #6c9cc2,
+  "accent1": #2d2609,
+  "accent2": #e0ae00,
+  "accent3": #a2a3a8,
+  "success": #00a75c,
+  "warning": #e5cb00,
+  "danger": #f60800,
+);
 
 // import bootstrap scss
 @import "../node_modules/bootstrap/scss/bootstrap";
