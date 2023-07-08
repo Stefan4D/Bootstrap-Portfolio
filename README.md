@@ -1,20 +1,19 @@
-# Bootstrap-Portfolio
+# Bootstrap Portfolio
 
 ## Description
 
-Submission for Module 3 of the University of Birmingham Skills Bootcamp in Front-End Web Development &amp; UX
+Submission for Module 3 of the University of Birmingham Skills Bootcamp in Front-End Web Development &amp; UX.
 
-FOr this assignment, there was no starter code and I built the skeleton HTML from scratch. This project uses the Bootstrap library for styling of the web app.
+For this assignment, there was no starter code and I built the skeleton HTML from scratch. This project uses the Bootstrap library for styling of the web app, which I customised using Sass as well as a custom CSS file.
 
 The production website is deployed [here](https://stefan4d.github.io/Bootstrap-Portfolio/).
 
-![Screenshot of deployed webpage]()
+![Screenshot of deployed webpage](./images/deployed-app.png)
 
 This has been developed to meet the following Acceptance Criteria:
 
 | Acceptance Criteria                                                                                                                                                                      | Solution                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Using Bootstrap, recreate your portfolio site with the following items:                                                                                                                  |                                                                                                                                                                 |
 | **Navigation bar** <br /> A navigation menu at the top. <br/><br/> Include links that are applicable to your portfolio. <br/><br/>Links should navigate to the appropriate sections      | Navbar component with collapse class and custom styling for right alignment on small screens.<br/><br/>Links to sections included for About, Work, and Contact. |
 | **Hero Section** <br /> A jumbotron featuring your picture, your name, and any other information you'd like to include.                                                                  | Jumbotron included with title, sub-title, and placeholder text.                                                                                                 |
 | **Work Section** <br/> A section displaying your work in grid. <br /><br /> Use Bootstrap cards for each project. <br /><br /> The description should give a brief overview of the work. | Work section included.<br/><br/>Bootstrap cards used and customised.<br/><br/>Description included for each.                                                    |
@@ -25,11 +24,13 @@ This has been developed to meet the following Acceptance Criteria:
 
 ## Learning Outcome
 
-I have learned how to make use of the Bootstrap library for rapidly prototyping and iterating on an application design.
+- I have learned how to make use of the Bootstrap library for rapidly prototyping and iterating on an application design.
 
-I found the Bootstrap Grid system to much simpler to use than the raw CSS required to build out a grid or a set of flexbox containers and items.
+- I found the Bootstrap Grid system to much simpler to use than the raw CSS required to build out a grid or a set of flexbox containers and items.
 
-I have also learned how to customise Bootstrap cards to achieve my desired hover effect, separating two parts of the card to achieve the end result.
+- I have also learned how to customise Bootstrap cards to achieve my desired hover effect, separating two parts of the card to achieve the end result.
+
+- I have learned how to customise Bootstrap using Sass, contained within the file [here](./sass/main.scss).
 
 ## Resources Used
 

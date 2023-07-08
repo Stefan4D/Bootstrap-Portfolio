@@ -4,14 +4,17 @@
   padding: 10px;
 }
 
+/* This class sets the hover effect for the portfolio card descriptions */
 .portfolio-card:hover .card-text-overlay {
   background-color: rgba(0, 0, 0, 0.95);
 }
 
+/* This class sets the hover effect for the portfolio card images */
 .portfolio-card:hover .card-img-overlay {
   background-color: rgba(255, 255, 255, 0.05);
 }
 
+/* This class sets the hover effect for the links in the contact section */
 .contact-nav-link:hover {
   background-color: #0054b3;
   color: white;
